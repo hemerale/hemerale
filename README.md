@@ -2,7 +2,9 @@ Affilied with [M4croxx](https://github.com/m4croxx)
 
 ## 🤔 Who am I?
 
-Im an Italian Student of Computer Science, that mostly work on website with HTML, CSS and JS, but also know something about some other languages.
+I am an Italian Computer Science student. Over the course of my academic and practical experience, I have primarily focused on web development, working extensively with front-end technologies such as HTML, CSS, and JavaScript, as well as back-end languages including SQL and PHP.
+I also have hands-on experience with general-purpose programming languages such as C++, Java, and Python. I am familiar with object-oriented programming principles and have applied them particularly in Java.
+Additionally, I have worked with server-side development using Node.js, which I have used to build Discord bots by leveraging the Discord.js library.
 
 
 ## 📄 Projects
@@ -11,10 +13,10 @@ Im an Italian Student of Computer Science, that mostly work on website with HTML
 A Website made for an italian emerging rapper named [M4croxx](https://open.spotify.com/intl-it/artist/7DsR3NWHQTECMXd1GbBOjT?si=FJFToBLZRc-gbdZCVrvn3w)
 
 • [M4crobot](https://github.com/hemerale/m4crobot) <br>
-A Discord Bot made in [Discord.JS](https://discord.js.org/), that used to manage the old [M4croxx](https://open.spotify.com/intl-it/artist/7DsR3NWHQTECMXd1GbBOjT?si=FJFToBLZRc-gbdZCVrvn3w) official Discord Server
+A Discord Bot made in [Discord.JS](https://discord.js.org/), that used to manage the old [M4croxx](https://open.spotify.com/intl-it/artist/7DsR3NWHQTECMXd1GbBOjT?si=FJFToBLZRc-gbdZCVrvn3w) Discord Server
 
 • [Guidaldi](https://github.com/hemerale/Guidaldi) <br>
-My Custom Web Browser Home Page made in HTML, CSS and JS
+My Custom Web Browser Home Page
 
 <details>
 <summary> 🖥️ PC Specs</summary>
