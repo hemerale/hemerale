@@ -13,7 +13,7 @@ Additionally, I have worked with server-side development using Node.js, which I 
 A Discord bot developed with [Discord.JS](https://discord.js.org/) to manage the official [M4croxx](https://open.spotify.com/intl-it/artist/7DsR3NWHQTECMXd1GbBOjT?si=FJFToBLZRc-gbdZCVrvn3w) Discord server, including automated moderation, commands, and interactive features for the community.
 
 • [Guidaldi](https://github.com/hemerale/Guidaldi) <br>
-A fully customizable Google Chrome homepage extension, featuring a live clock, dynamic date, real-time weather updates via OpenWeatherMap API, quick links, and a Google search bar.
+A customized Google Chrome homepage extension, featuring a live clock, dynamic date, real-time weather updates via OpenWeatherMap API, quick links, and a Google search bar.
 
 • [Voice Portal](https://github.com/hemerale/PortaleMessaggiVocali) <br>
 A web platform for recording and sending voice messages directly via email. Supports desktop and mobile, automatic audio upload to Cloudinary, and secure sending with EmailJS.
