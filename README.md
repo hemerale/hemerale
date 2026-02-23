@@ -1,5 +1,3 @@
-Affilied with [M4croxx](https://github.com/m4croxx)
-
 ## 🤔 Who am I?
 
 I am an Italian Computer Science student. Over the course of my academic and practical experience, I have primarily focused on web development, working extensively with front-end technologies such as HTML, CSS, and JavaScript, as well as back-end languages including SQL and PHP.
@@ -7,7 +5,7 @@ I also have hands-on experience with general-purpose programming languages such 
 Additionally, I have worked with server-side development using Node.js, which I have used to build Discord bots by leveraging the Discord.js library.
 
 
-## 📄 Projects
+## 📄 Core Projects
 
 • [M4crobot](https://github.com/hemerale/m4crobot) <br>
 A Discord bot developed with [Discord.JS](https://discord.js.org/) to manage the official [M4croxx](https://open.spotify.com/intl-it/artist/7DsR3NWHQTECMXd1GbBOjT?si=FJFToBLZRc-gbdZCVrvn3w) Discord server, including automated moderation, commands, and interactive features for the community.
