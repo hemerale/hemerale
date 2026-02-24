@@ -34,13 +34,7 @@ HDD : [1TB](https://www.amazon.it/dp/B0711YN12S/?coliid=I1YWFN3W1X8M9Y&colid=13Y
 
 </details>
 
-<details>
-<summary> 😎 Github Stats</summary>
 
-![hemerale Github Stats](https://github-readme-stats.vercel.app/api?username=hemerale&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemerale&layout=compact&theme=dark)](https://github.com/hemerale)
-
-</details>
 <p align="center">
 <!-- HTML -->
 <a href="https://github.com/hemerale"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50"></a>
@@ -51,7 +45,7 @@ HDD : [1TB](https://www.amazon.it/dp/B0711YN12S/?coliid=I1YWFN3W1X8M9Y&colid=13Y
 <!-- Node.JS -->
 <a href="https://github.com/hemerale"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" height="50"></a>
 <!-- C++ -->
-<a target="_blank" href="https://github.com/hemerale/Cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" width="45" height="50"/></a>
+<a target="_blank" href="https://github.com/hemerale/Cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/960px-ISO_C%2B%2B_Logo.svg.png" width="45" height="50"/></a>
 <!-- Python -->
 <a target="_blank" href="https://github.com/hemerale/Python"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50"/></a>
 <!-- Java -->
