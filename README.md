@@ -26,9 +26,6 @@ Lately my focus has shifted toward building products end-to-end: from idea to de
 
 ## 📄 Core Projects
 
-**SudMovieNight** <br>
-Web platform built for a university student association to manage attendance at film screenings and automatically generate participation certificates in PDF. Built with Python.
-
 **[VoicePortal](https://github.com/hemerale/PortaleMessaggiVocali)** <br>
 Web platform for recording and sending voice messages directly via email. Works on desktop and mobile, with automatic audio upload to Cloudinary and secure delivery via EmailJS.
 
