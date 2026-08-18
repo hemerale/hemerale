@@ -1,53 +1,56 @@
-## 🤔 Who am I?
+# Hi, I'm Carmelo Alessandro 👋
 
-I am an Italian Computer Science student. Over the course of my academic and practical experience, I have primarily focused on web development, working extensively with front-end technologies such as HTML, CSS, and JavaScript, as well as back-end languages including SQL and PHP.
-I also have hands-on experience with general-purpose programming languages such as C++, Java, and Python. I am familiar with object-oriented programming principles and have applied them particularly in Java.
-Additionally, I have worked with server-side development using Node.js, which I have used to build Discord bots by leveraging the Discord.js library.
+Full-Stack Developer based in Sicily, Italy. I build web systems that solve real problems, integrating AI into how I design and write code.
 
+🔗 [Portfolio](https://hemerale.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/carmelo-alessandro-922814395)
+
+---
+
+## 🤔 About
+
+I'm an Italian Computer Science student and freelance developer. I work across the full stack — front-end with HTML, CSS and JavaScript, back-end with Node.js, PHP, SQL and Python — and I have hands-on experience with general-purpose languages like C++, Java and Python, applying object-oriented principles where they fit.
+
+Lately my focus has shifted toward building products end-to-end: from idea to deployment, with AI woven into the workflow rather than added on top.
+
+## 🛠️ Stack
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/960px-ISO_C%2B%2B_Logo.svg.png" width="36" height="40" alt="C++"/>
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40" height="40" alt="Java"/>
+</p>
 
 ## 📄 Core Projects
 
-• [M4crobot](https://github.com/hemerale/m4crobot) <br>
-A Discord bot developed with [Discord.JS](https://discord.js.org/) to manage the official [M4croxx](https://open.spotify.com/intl-it/artist/7DsR3NWHQTECMXd1GbBOjT?si=FJFToBLZRc-gbdZCVrvn3w) Discord server, including automated moderation, commands, and interactive features for the community.
+**SudMovieNight** <br>
+Web platform built for a university student association to manage attendance at film screenings and automatically generate participation certificates in PDF. Built with Python.
 
-• [Guidaldi](https://github.com/hemerale/Guidaldi) <br>
-A customized Google Chrome homepage extension, featuring a live clock, dynamic date, real-time weather updates via OpenWeatherMap API, quick links, and a Google search bar.
+**[VoicePortal](https://github.com/hemerale/PortaleMessaggiVocali)** <br>
+Web platform for recording and sending voice messages directly via email. Works on desktop and mobile, with automatic audio upload to Cloudinary and secure delivery via EmailJS.
 
-• [Voice Portal](https://github.com/hemerale/PortaleMessaggiVocali) <br>
-A web platform for recording and sending voice messages directly via email. Supports desktop and mobile, automatic audio upload to Cloudinary, and secure sending with EmailJS.
+**[m4crobot](https://github.com/hemerale/m4crobot)** <br>
+Discord bot built with [Discord.js](https://discord.js.org/) to manage the official [M4croxx](https://open.spotify.com/intl-it/artist/7DsR3NWHQTECMXd1GbBOjT?si=FJFToBLZRc-gbdZCVrvn3w) Discord server — automated moderation, custom commands, and interactive community features.
+
+**[Guidaldi](https://github.com/hemerale/Guidaldi)** <br>
+A custom Google Chrome new-tab extension featuring a live clock, dynamic date, real-time weather via the OpenWeatherMap API, quick links, and an integrated search bar.
+
+---
 
 <details>
-<summary> 🖥️ PC Specs</summary>
+<summary>🖥️ PC Specs (just for fun)</summary>
+<br>
 
-
-CPU : [i7-17000F](https://www.amazon.it/dp/B08TX3MXV5/?coliid=I3M8QB44T1YWUT&colid=13YCH284JN61W&psc=1&ref_=gv_ov_lig_pi_dp)
-
-GPU : HP RTX 3060 12 GB VRAM
-
-RAM : [16x2GB 3200MHZ CL16](https://www.amazon.it/dp/B0897V51S8/?coliid=I18WCZ41DVPM4Y&colid=13YCH284JN61W&psc=1&ref_=gv_ov_lig_pi_dp)
-
-SSD : [M.2 500 GB 2400 MB/S](https://www.amazon.it/dp/B086BGWNY8/?coliid=I2GIIJZLMMZXAA&colid=13YCH284JN61W&psc=1&ref_=gv_ov_lig_pi_dp)
-
-SSD : [SATA 480 GB 520 MB/S](https://www.amazon.it/dp/B01C2JJB0G/?coliid=I2ER03Z3SN5EBZ&colid=13YCH284JN61W&psc=1&ref_=gv_ov_lig_pi_dp)
-
-HDD : [1TB](https://www.amazon.it/dp/B0711YN12S/?coliid=I1YWFN3W1X8M9Y&colid=13YCH284JN61W&psc=1&ref_=gv_ov_lig_pi_dp)
+| Component | Spec |
+|---|---|
+| CPU | [i7-17000F](https://www.amazon.it/dp/B08TX3MXV5) |
+| GPU | HP RTX 3060 12 GB VRAM |
+| RAM | [16x2GB 3200MHz CL16](https://www.amazon.it/dp/B0897V51S8) |
+| SSD | [M.2 500 GB, 2400 MB/s](https://www.amazon.it/dp/B086BGWNY8) |
+| SSD | [SATA 480 GB, 520 MB/s](https://www.amazon.it/dp/B01C2JJB0G) |
+| HDD | [1 TB](https://www.amazon.it/dp/B0711YN12S) |
 
 </details>
-
-
-<p align="center">
-<!-- HTML -->
-<a href="https://github.com/hemerale"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50"></a>
-<!-- CSS -->
-<a href="https://github.com/hemerale"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50"></a>
-<!-- JavaScript 
-<a href="https://github.com/hemerale"><img src="" width="50" height="50"></a> -->
-<!-- Node.JS -->
-<a href="https://github.com/hemerale"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" height="50"></a>
-<!-- C++ -->
-<a target="_blank" href="https://github.com/hemerale/Cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/960px-ISO_C%2B%2B_Logo.svg.png" width="45" height="50"/></a>
-<!-- Python -->
-<a target="_blank" href="https://github.com/hemerale/Python"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50"/></a>
-<!-- Java -->
-<a href="https://github.com/hemerale"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png?w=360" width="50" height="50"></a>
-</p>
